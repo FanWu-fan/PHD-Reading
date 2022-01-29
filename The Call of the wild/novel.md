@@ -1,0 +1,6 @@
+> 闲着也不学习，还不如抄抄小说，最近的生活需要准备考试，感觉来的国外博士生活已经4个月了，个人能力上丝毫没有提升，生活也不尽人意，还是需要继续努力呀。多多阅读英文科研文献，小说，杂志，不要怕浪费时间！每天就是觉得阅读太慢，而不想去阅读，实际上呢?就把时间花费在微博，中文垃圾小说等等快餐文化上！我需要的是一个静下心来，深层次的思考问题，而不是简简单单的荷尔蒙刺激！
+
+# Chapter 1
+Buck did not read the newspapers, or he would have known that trouble was brewing. not alone for himself, but for every tide-water dog, strong of muscle and with warm, long hair, from Puget Sound to San Diego. Because men, groping in the *Arctic* darkness, had found a yellow metal, and because steamship and transportation companies were booming the find, thousands of men were rushing into the Northland. These men wanted dog, and the dogs they wanted were heavy dogs, with strong muscles by which to toil, and furry皮毛 coats外套 to protect them from the frost.
+
+Buck lived at a big house in the $\textcolor{red}{sun-kissed}$ Santa Clara Valley, It stood back from the road, half hidden among the trees, through which glimpses could be caught of the wild cool $\textcolor{red}{veranda}$ 阳台 that ran around its four sides.
