@@ -5,6 +5,8 @@
   - [2.1. 经验误差与过拟合](#21-经验误差与过拟合)
   - [2.2. 偏差和方差](#22-偏差和方差)
 - [3. 线性模型](#3-线性模型)
+  - [3.1. 对数几率回归](#31-对数几率回归)
+  - [线性判别分析](#线性判别分析)
 
 <!-- /TOC -->
 
@@ -54,3 +56,18 @@ least square method
 $\textcolor{red}{parameter}$ estimation
 
 ![](picture/2022-02-09-21-39-53.png)
+
+Multivariate linear regression 多元线性回归
+![](picture/2022-02-10-19-33-49.png)
+![](picture/2022-02-10-19-34-08.png)
+
+## 3.1. 对数几率回归
+Unit-step function 单位阶跃函数
+Surrogate function 替代函数
+Logistic function
+Linear Discriminant Analysis LDA
+
+![](picture/2022-02-10-21-23-56.png)
+
+## 线性判别分析
+Linear Discriminant Analysis LDA
