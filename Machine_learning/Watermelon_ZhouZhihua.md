@@ -6,7 +6,7 @@
   - [2.2. 偏差和方差](#22-偏差和方差)
 - [3. 线性模型](#3-线性模型)
   - [3.1. 对数几率回归](#31-对数几率回归)
-  - [线性判别分析](#线性判别分析)
+  - [3.2. 线性判别分析](#32-线性判别分析)
 
 <!-- /TOC -->
 
@@ -69,5 +69,9 @@ Linear Discriminant Analysis LDA
 
 ![](picture/2022-02-10-21-23-56.png)
 
-## 线性判别分析
+## 3.2. 线性判别分析
 Linear Discriminant Analysis LDA
+![](picture/Untitled-6.jpg)
+
+LDA可以推广到多分类任务中，假定存在N个类，且第i类示例数为$m_i$，我们定理全局散度矩阵：
+![](picture/Untitled-7.jpg)
