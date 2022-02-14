@@ -5,7 +5,7 @@
 <!-- /TOC -->
 
 # 1.  Computer Networks and the internet
-$\textcolor{red}{mankind}$
+$\textcolor{red}{mankind}$ 人类男性
 
 $\textcolor{red}{communication}$ $\textcolor{red}{links}$ 通信链路
 

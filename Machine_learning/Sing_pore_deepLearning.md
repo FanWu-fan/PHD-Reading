@@ -17,6 +17,7 @@
 - [2. Markov Decision Processes](#2-markov-decision-processes)
   - [2.1. $\textcolor{red}{Definitions}$](#21-textcolorreddefinitions)
   - [2.2. Elements of Markov Decision Process](#22-elements-of-markov-decision-process)
+    - [2.2.1. The bellman Equation](#221-the-bellman-equation)
 
 <!-- /TOC -->
 
@@ -231,6 +232,15 @@ r(s,a) &= r(4,+1) \\
 \end{aligned}
 $$
 
+We note that the return at time step t can be expressed in terms of return in the next time $t+1$:
 ![](picture/2022-02-07-21-37-38.png)
+
 ![](picture/2022-02-07-21-39-21.png)
 ![](picture/2022-02-07-21-58-02.png)
+![](picture/2022-02-14-13-07-06.png)
+
+### 2.2.1. The bellman Equation
+In general, the Bellman Equation describes a relationship between the value of a state $v_\pi(s)$(or of a state-action $q_\pi(s,a$) and the the value of its successor states $v_\pi(s')$,(or a state-action pairs $q_\pi(s',a')$). We look first at the case of state value, under the general assumption that the transition, reward, and policy are all non-deterministic.
+
+we start with the definition of the state value function under policy $\pi$ given in Equation(2.41)，Now:
+![](picture/2022-02-14-13-44-34.png)
