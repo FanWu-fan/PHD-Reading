@@ -7,6 +7,9 @@
 - [3. 线性模型](#3-线性模型)
   - [3.1. 对数几率回归](#31-对数几率回归)
   - [3.2. 线性判别分析](#32-线性判别分析)
+- [4. Decision tree](#4-decision-tree)
+- [5. Neural network](#5-neural-network)
+- [6 Bayes theory](#6-bayes-theory)
 
 <!-- /TOC -->
 
@@ -75,3 +78,17 @@ Linear Discriminant Analysis LDA
 
 LDA可以推广到多分类任务中，假定存在N个类，且第i类示例数为$m_i$，我们定理全局散度矩阵：
 ![](picture/Untitled-7.jpg)
+
+# 4. Decision tree
+
+# 5. Neural network
+Perceptron 感知机
+threshold logic unit 阈值逻辑单元
+Error Backpropagation
+![](picture/Untitled-8.jpg)
+![](picture/Untitled-9.jpg)
+![](picture/Untitled-10.jpg)
+![](picture/Watermelon-Books-11.jpg)
+![](picture/Watermelon-Books-12.jpg)
+
+# 6 Bayes theory
